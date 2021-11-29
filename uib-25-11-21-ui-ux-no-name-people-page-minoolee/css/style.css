@@ -1,0 +1,79 @@
+html {
+    width: 100%;
+}
+header {
+    margin-left: 50px;
+}
+
+.me {
+  
+    float:  right;
+}
+.p {
+    width: 50px;
+    color: aquamarine;
+}
+.text {
+    padding-top: 50px;
+    position: absolute;
+    top: 300px;
+    left: 200px;
+    border: none;
+    width: 600px;
+    height: 500px;
+}
+.lo {
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    right: 500px;
+    top: 300px;
+}
+.teil {
+    display: inline;
+}
+.box {
+    background-color: aqua;
+    padding: 10px 20px;
+}
+.teil2 {
+    position: relative;
+    padding: 30px;
+    text-align: center;
+    margin-top: 1000px;
+    background-color: aqua;
+    height: 700px;
+}
+.log {
+    width: 700px;
+    height: 500px;
+    position: absolute;
+    background-color: whitesmoke;
+    right: 300px;
+    bottom: 100px;
+   padding: 10px;
+}
+.list {
+    background-color: whitesmoke;
+    width: 400px;
+    height: 520px;
+    position: absolute;
+    text-align: left;
+    bottom: 100px;
+    left: 400px;
+    
+}
+li {
+    list-style: none;
+    padding: 20px;
+    margin-top: 20px;
+}
+.icons {
+    float: right;
+}
+nav {
+    fill: aqua;
+
+}
+.lis {
+    margin-right: 20px;
